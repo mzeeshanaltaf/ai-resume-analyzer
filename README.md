@@ -7,7 +7,7 @@ This app analyzes your resume, compares it to the provided job description and p
   - Resume Rating
 
 # Application Link
-https://ai-nutritionist.streamlit.app/
+https://ai-resume-analyzer-ai.streamlit.app/
 
 # Supported Models
 This application supports the following multimodal:
