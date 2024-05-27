@@ -28,5 +28,6 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
 
 # Screen Shots
 ![image](https://github.com/mzeeshanaltaf/ai-resume-analyzer/assets/154883001/1976c04b-a75e-416e-9215-4480affa528f)
-![image](https://github.com/mzeeshanaltaf/ai-resume-analyzer/assets/154883001/229fc0ab-996c-474a-b845-4604a5f92e23)
+![image](https://github.com/mzeeshanaltaf/ai-resume-analyzer/assets/154883001/a50daf1d-08ad-4b12-8f8b-af05f41cb770)
+
 
