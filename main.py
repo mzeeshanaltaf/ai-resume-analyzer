@@ -46,7 +46,6 @@ selection = option_menu(
 
 # If selected menu option is "Analyze"
 if selection == 'Analyze':
-    st.subheader("Response")
     st.write(st.session_state.response)
 
 # If selected menu option is "About"
