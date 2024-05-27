@@ -53,10 +53,11 @@ if selection == 'Analyze':
 if selection == "About":
     with st.expander("About this App"):
         st.markdown(''' This is an AI Powered Resume Analyzer app. It compares your resume to provided job description 
-        and suggest improvement.It has following functionality:
+        and suggest improvement. It has following functionality:
 
     - Provides resume Matching percentage with job description
     - Missing Keywords
+    - Tips for improving resume
     - Resume Rating
 
         ''')
